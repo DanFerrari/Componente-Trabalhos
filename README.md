@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96835251/170387821-72b12ef7-0546-472e-b998-faba631c8dad.png)
+![image](https://user-images.githubusercontent.com/96835251/179736808-3754e537-785e-4422-a8f7-fd90800ddbff.png)
 
 ## What is this application?
 
